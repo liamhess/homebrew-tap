@@ -1,6 +1,6 @@
 cask "clipiary" do
   version "0.7.1"
-  sha256 "65ebbc089f96909b08059760ab8d4dbc68a3be7d7e83ef0b8d94cd2c5bbf7b6a"
+  sha256 "d19e07e5ddffed11fcd770e920c41b6a3e205894b4a4efa8a6ccf59d871dc94e"
 
   url "https://github.com/liamhess/clipiary/releases/download/v0.7.1/Clipiary-0.7.1.zip"
   name "Clipiary"
