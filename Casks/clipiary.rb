@@ -1,8 +1,8 @@
 cask "clipiary" do
-  version "0.7.1"
-  sha256 "632617a65bbc50e0a0cb61ceddc053150e52206826e0653bed92a9d9f55d4db1"
+  version "0.7.0"
+  sha256 "99734fe571f135beddc77f32c6a878be3d984cc75d883b3e2ea0b02dfb09ad82"
 
-  url "https://github.com/liamhess/clipiary/releases/download/v0.7.1/Clipiary-0.7.1.zip"
+  url "https://github.com/liamhess/clipiary/releases/download/v0.7.0/Clipiary-0.7.0.zip"
   name "Clipiary"
   desc "macOS clipboard manager with an opt-in global copy-on-select mode"
   homepage "https://github.com/liamhess/clipiary"
